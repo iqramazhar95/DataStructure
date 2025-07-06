@@ -43,5 +43,6 @@ again we user new branch
 to create a new branch 
 git checkout -b featurer1  // create a branch 
 git branch // check how many branch you have 
+git switch -c featurer2  //// create a new branch with switch method 
 
 
