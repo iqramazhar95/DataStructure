@@ -38,5 +38,6 @@ git show version1.00
 you need to push tag saperately 
 git push origin  you tag name 
 git push origin v1.0
-
+git switch main 
+git switch featurer1
 
