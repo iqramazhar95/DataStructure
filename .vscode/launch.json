@@ -1,0 +1,77 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "BubbleSort",
+            "request": "launch",
+            "mainClass": "BubbleSort",
+            "projectName": "DataStructurAlgo_b8834f8a"
+        },
+        {
+            "type": "java",
+            "name": "BubbleSortTest",
+            "request": "launch",
+            "mainClass": "BubbleSortTest",
+            "projectName": "DataStructurAlgo_b8834f8a"
+        },
+        {
+            "type": "java",
+            "name": "CopyMerge",
+            "request": "launch",
+            "mainClass": "CopyMerge",
+            "projectName": "DataStructurAlgo_b8834f8a"
+        },
+        {
+            "type": "java",
+            "name": "Demo",
+            "request": "launch",
+            "mainClass": "Demo",
+            "projectName": "DataStructurAlgo_b8834f8a"
+        },
+        {
+            "type": "java",
+            "name": "InsertionSort",
+            "request": "launch",
+            "mainClass": "InsertionSort",
+            "projectName": "DataStructurAlgo_b8834f8a"
+        },
+        {
+            "type": "java",
+            "name": "LinkedRunner",
+            "request": "launch",
+            "mainClass": "LinkedRunner",
+            "projectName": "DataStructurAlgo_b8834f8a"
+        },
+        {
+            "type": "java",
+            "name": "QuickSort",
+            "request": "launch",
+            "mainClass": "QuickSort",
+            "projectName": "DataStructurAlgo_b8834f8a"
+        },
+        {
+            "type": "java",
+            "name": "SelectionSort",
+            "request": "launch",
+            "mainClass": "SelectionSort",
+            "projectName": "DataStructurAlgo_b8834f8a"
+        },
+        {
+            "type": "java",
+            "name": "SelectionSortTest",
+            "request": "launch",
+            "mainClass": "SelectionSortTest",
+            "projectName": "DataStructurAlgo_b8834f8a"
+        }
+    ]
+}
