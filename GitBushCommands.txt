@@ -1,0 +1,38 @@
+change a drive /// cd /f
+cd ls // check the contents of any folder or drive 
+mkdir git-course // create a folder in f
+if you create a new file in git-course folder  
+
+
+echo "git-course demo" >> README.md ///////////your new file is created README.md with content echo git_course demo "
+check the content of README.md file /////////
+ycat README.md
+if you want see the fills your current folder use command ///////////// ls -a
+
+git init 
+
+
+change git master branch in to main branch /// git branch -M main  
+
+git remote reposity 
+$ git remote add origin  git@github.com:iqramazhar95/git-course.git  /// this is different for all your new repositry
+
+
+git rm --cached myfirstfile.txt  delete  a file from commit section .
+git commit -m "removed a file myfirsfile.text ////  its veryimportant 
+
+very important ////////
+git remote add origin git@github.com:iqramazhar95/DataStructure.git
+PS F:\DataStructurAlgo> git branch -M main
+PS F:\DataStructurAlgo> git push -u origin main
+Enumerating objects: 50, done.
+
+
+check you are in which remote repositry 
+// git remote -v
+
+git tag check  
+git tag -a  version1.00 -m "first release "
+git tag
+git show version1.00
+
