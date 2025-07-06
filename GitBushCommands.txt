@@ -35,4 +35,8 @@ git tag check
 git tag -a  version1.00 -m "first release "
 git tag
 git show version1.00
+you need to push tag saperately 
+git push origin  you tag name 
+git push origin v1.0
+
 
