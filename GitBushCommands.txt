@@ -39,4 +39,9 @@ you need to push tag saperately
 git push origin  you tag name 
 git push origin v1.0
 
+again we user new branch 
+to create a new branch 
+git checkout -b featurer1  // create a branch 
+git branch // check how many branch you have 
+
 
