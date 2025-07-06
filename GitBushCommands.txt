@@ -38,6 +38,16 @@ git show version1.00
 you need to push tag saperately 
 git push origin  you tag name 
 git push origin v1.0
+<<<<<<< HEAD
 git switch main 
 git switch featurer1
+=======
+
+again we user new branch 
+to create a new branch 
+git checkout -b featurer1  // create a branch 
+git branch // check how many branch you have 
+git switch -c featurer2  //// create a new branch with switch method 
+
+>>>>>>> featurer1
 
